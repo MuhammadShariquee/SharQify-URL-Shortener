@@ -18,3 +18,7 @@ This is a Python Tkinter project that shortens long URLs using the `pyshorteners
 ## Files
 - `SharQify.py` → Main Python code
 - `SharQify.pptx` → Project presentation slides
+
+## 🚀 Download SharQify
+
+[![Download SharQify](https://img.shields.io/badge/Download-SharQify.exe-blue?style=for-the-badge)](https://github.com/MuhammadShariquee/SharQify-URL-Shortener/releases/latest/download/SharQify.exe)
