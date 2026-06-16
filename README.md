@@ -1,4 +1,4 @@
-# SharQify – URL Shortener (Tkinter Project)
+# SharQify  URL Shortener (Tkinter Project)
 
 This is a Python Tkinter project that shortens long URLs using the `pyshorteners` library.
 
