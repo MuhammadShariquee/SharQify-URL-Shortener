@@ -13,7 +13,7 @@ This is a Python Tkinter project that shortens long URLs using the `pyshorteners
 - Tkinter
 - PyShorteners (TinyURL API)
 - IDE:VS Code
-- Platform: Windows 10
+- Platform: Windows 10, 11
 
 ## Files
 - `SharQify.py` → Main Python code
